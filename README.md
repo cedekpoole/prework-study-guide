@@ -14,7 +14,7 @@ N/A
 
 To use this guide, find the topic you want to learn more on and read the information in the corresponding box. For suggestions on what to study next, open the Chrome dev tools (Cmd + Option + J on Mac; Ctrl + Shift + J on Windows or Linux) to look at the console. Here, you will see a list of the available topics that this guide covers with a suggestion on what to study first. 
 
-![alt text](assets/images/screenshot.png "Prework Study Guide")
+![alt text](prework-study-guide/assets/images/screenshot.png)
 
 ## Credits
 
