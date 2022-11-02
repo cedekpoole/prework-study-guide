@@ -3,7 +3,7 @@
 ## Description
 
 
-This Prework Study Guide has been created as means to aid beginners in learning the absolute essentials of web development. It inludes helpful notes on HTML, CSS, JavaScript and Git that beginners can come back to when they need assistance. By creating this guide, I learnt how to create and deploy a webpage from scratch.  
+This Prework Study Guide has been created as means to aid beginners in learning the absolute essentials of web development. It includes helpful notes on HTML, CSS, JavaScript and Git that beginners can come back to when they need assistance. By creating this guide, I learnt how to create and deploy a webpage from scratch.  
 
 
 ## Installation
